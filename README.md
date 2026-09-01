@@ -104,16 +104,15 @@ GNN_Baltimore/
 
 ## Results
 
-| Metric | Validation | Test    |
-|--------|------------|---------|
-| RMSE   | 0.834°C    | 0.719°C |
-| MAE    | 0.519°C    | 0.413°C |
-| R²     | 0.899      | 0.925   |
-| r      | 0.949      | 0.962   |
-| Bias   | +0.006°C   | −0.007°C |
+| Metric  Test      |
+|---------|---------|
+| RMSE    | 0.719°C |
+| MAE     | 0.413°C |
+| R²      | 0.925   |
+| r       | 0.962   |
+| Bias    | −0.007°C |
 
-**Best configuration :** 3 GraphConv layers | hidden_dim = 128 | Huber Loss δ = 0.25 |
-StandardScaler | Haversine distance as edge weight | LR = 1e-3
+
 
 ---
 
