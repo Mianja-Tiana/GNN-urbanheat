@@ -103,7 +103,7 @@ GNN_Baltimore/
 ---
 
 ## Results
-
+![Result](images/final_predictions.jpg)
 | Metric  |Test      |
 |---------|---------|
 | RMSE    | 0.719°C |
