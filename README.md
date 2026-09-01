@@ -104,7 +104,7 @@ GNN_Baltimore/
 
 ## Results
 
-| Metric  Test      |
+| Metric  |Test      |
 |---------|---------|
 | RMSE    | 0.719°C |
 | MAE     | 0.413°C |
