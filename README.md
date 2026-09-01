@@ -18,7 +18,7 @@ spatial and temporal dependencies within a single unified framework.
 
 ## Graph Topology
 
-![Graph Topology](images/graph_topology.pdf)
+![Graph Topology](images/graph_topology.jpg)
 
 *Heterogeneous graph connecting 24 active GOES-16 pixels (gray dots) and 3 BSEC weather stations (stars).
 Gray dashed lines = KNN edges (GOES → station, weighted by Haversine distance).
